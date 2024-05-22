@@ -4,6 +4,7 @@ You can use this theme, or create your own by customizing scss variables.
 https://nodejs.org/en/download/prebuilt-installer
 # Step 2: Install React
 https://react.dev/learn/start-a-new-react-project
+
 npx create-react-app
 # step 3 Install-chat kit
 
