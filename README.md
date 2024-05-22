@@ -10,7 +10,7 @@ npx create-react-app
 
 # Using npm.
 
-# npm install @chatscope/chat-ui-kit-styles
+ npm install @chatscope/chat-ui-kit-styles
 # Using yarn.
 
 yarn add @chatscope/chat-ui-kit-styles
